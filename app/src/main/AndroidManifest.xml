@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.android.fusion.example">
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+
+
+    <application
+        android:name="com.android.fusion.example.Utils.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/group_13"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@drawable/group_13"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="m">
+        <activity
+            android:name="com.android.fusion.example.Home.CallsFragment"
+            android:exported="false"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name="com.android.fusion.example.WelcomeSlide.WelcomeActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/AppTheme.Launcher">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.fusion.example.WelcomeSlide.IntroActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.android.fusion.example.Home.MainActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.android.fusion.example.Home.CreateGroupFragment"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.android.fusion.example.Home.GroupChatActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.android.fusion.example.Home.MeetingCallActivity"
+            android:configChanges="orientation|screenSize" />
+
+        <activity
+            android:name="com.android.fusion.example.LoginReg.LoginActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.android.fusion.example.Chat.ViewImageActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.android.fusion.example.Home.OutgoingInvitationActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.android.fusion.example.Home.IncomingInvitationActivity"
+            android:configChanges="orientation|screenSize" />
+        <activity
+            android:name="com.android.fusion.example.ForgotPassword.ForgotPassActivity"
+            android:parentActivityName="com.android.fusion.example.LoginReg.LoginActivity" />
+        <activity
+            android:name="com.android.fusion.example.LoginReg.RegisterActivity"
+            android:configChanges="orientation|screenSize" />
+
+        <activity
+            android:name="com.android.fusion.example.ProfileSetting.SettingsActivity"
+            android:configChanges="orientation|screenSize"
+            android:parentActivityName="com.android.fusion.example.Home.MainActivity"
+            android:windowSoftInputMode="stateAlwaysHidden"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name="com.android.fusion.example.ProfileSetting.StatusUpdateActivity"
+            android:configChanges="orientation|screenSize"
+            android:parentActivityName="com.android.fusion.example.ProfileSetting.SettingsActivity" />
+        <activity
+            android:name="com.android.fusion.example.Friends.FriendsFragment"
+            android:configChanges="orientation|screenSize"
+            android:parentActivityName="com.android.fusion.example.Home.MainActivity"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name="com.android.fusion.example.Profile.ProfileActivity"
+            android:configChanges="orientation|screenSize|screenLayout"
+            tools:ignore="Instantiatable">
+            <intent-filter>
+                <action android:name="com.infobox.hasnat.ume.ume_TARGET_NOTIFICATION" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.fusion.example.Chat.ChatActivity"
+            android:parentActivityName="com.android.fusion.example.Home.MainActivity" />
+        <activity
+            android:name="com.android.fusion.example.Search.SearchActivity"
+            android:configChanges="orientation|screenSize" /> <!-- Cropping image library -->
+        <activity
+            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+            android:theme="@style/Base.Theme.AppCompat" />
+            `<!-- Firebase Messaging Service -->
+<!--        <service android:name="com.android.fusion.example.Utils.FirebaseMessagingService">-->
+<!--            <intent-filter>-->
+<!--                <action android:name="com.google.firebase.MESSAGING_EVENT" />-->
+<!--            </intent-filter>-->
+<!--        </service>-->
+
+        <service
+            android:name="com.android.fusion.example.Utils.MessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

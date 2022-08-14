@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/drawable/background.xml" value="0.12" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/drawable/background_user_icon.xml" value="0.1265" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/drawable/circle_background.xml" value="0.1265" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/drawable/ic_baseline_send_24.xml" value="0.103" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/drawable/ic_baseline_wallpaper_24.xml" value="0.1295" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/drawable/ic_check_circle.xml" value="0.1265" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/drawable/ic_close_black_24dp.xml" value="0.1295" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.1295" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/drawable/inputmessage.xml" value="0.1265" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/drawable/rounded_textview.xml" value="0.1265" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/drawable/single_message_text_background.xml" value="0.1265" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/about_app.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_add_group.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_calls.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_chat.xml" value="0.2" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_create_group.xml" value="0.1296875" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_creategroup.xml" value="0.15" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_createmeeting.xml" value="0.22" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_forgot_pass.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_friends.xml" value="0.1109375" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_group_chat.xml" value="0.1296875" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_group_info.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_groupchatactivity.xml" value="0.18" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_incoming_invitation.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_login.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_outgoing_invitation.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_profile.xml" value="0.16927083333333334" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_search.xml" value="0.11041666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_settings.xml" value="0.165625" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_status_update.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/activity_view_image.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/all_app_bar_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/all_single_profile_display.xml" value="0.12395833333333334" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/app_bar_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/app_bar_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/app_new_bar.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/appbar_chat.xml" value="0.14322916666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/appbar_search.xml" value="0.22" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/content_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/fragment_chats.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/fragment_group.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/fragment_groups.xml" value="0.15" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/fragment_requests.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/intro_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/item_container_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/logout_dailog.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/rc_item_add_friend.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/rc_item_group.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/register_success_popup.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/request_single.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/row_group_chat_left.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/row_group_chat_right.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/single_message_layout.xml" value="0.1296875" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/slide1.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/slide4.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/view_chat_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/layout/view_group.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/menu/main_menu.xml" value="0.15364583333333334" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/menu/navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/menu/search_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/FYP2022/New folder/Fusion/app/src/main/res/menu/update_status_done_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/drawable/background_meeting_invitation.xml" value="0.2155" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/drawable/chat_left_bg.xml" value="0.2155" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/drawable/chat_right_bg.xml" value="0.2155" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/drawable/circle_background.xml" value="0.284" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/drawable/ic_send.xml" value="0.285" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/drawable/launcher_screen_with_logo.xml" value="0.295" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/drawable/rounded_textview.xml" value="0.284" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/about_app.xml" value="0.3625" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_add_group.xml" value="0.3625" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_calls.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_chat.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_create_group.xml" value="0.3614583333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_creategroup.xml" value="0.24322916666666666" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_createmeeting.xml" value="0.30833333333333335" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_group_chat.xml" value="0.2" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_group_info.xml" value="0.3614583333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_groupchatactivity.xml" value="0.3078125" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_incoming_invitation.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_login.xml" value="0.2911458333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_main.xml" value="0.3067708333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_outgoing_invitation.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_settings.xml" value="0.23333333333333334" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/activity_view_image.xml" value="0.3614583333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/all_single_profile_display.xml" value="0.34322916666666664" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/app_bar_home.xml" value="0.22" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/app_bar_layout.xml" value="0.346875" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/app_new_bar.xml" value="0.3338541666666667" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/appbar_chat.xml" value="0.25885416666666666" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/content_home.xml" value="0.3458333333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/fragment_chats.xml" value="0.3625" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/fragment_group.xml" value="0.3625" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/fragment_groups.xml" value="0.28940217391304346" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/intro_activity.xml" value="0.2911458333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/item_container_user.xml" value="0.27291666666666664" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/rc_item_add_friend.xml" value="0.28072916666666664" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/rc_item_group.xml" value="0.3625" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/row_group_chat_left.xml" value="0.3614583333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/row_group_chat_right.xml" value="0.3614583333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/slide1.xml" value="0.2911458333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/slide2.xml" value="0.2911458333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/slide3.xml" value="0.2911458333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/slide4.xml" value="0.2911458333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/view_chat_list.xml" value="0.253125" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/layout/view_group.xml" value="0.3625" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/menu/group_chat_menu.xml" value="0.3614583333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/menu/main_menu.xml" value="0.28072916666666664" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/Fusion/app/src/main/res/menu/navigation.xml" value="0.3067708333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/drawable/background_meeting_invitation.xml" value="0.332" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/drawable/launcher_screen_with_logo.xml" value="0.264" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/activity_calls.xml" value="0.25833333333333336" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/activity_chat.xml" value="0.25885416666666666" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/activity_incoming_invitation.xml" value="0.3614583333333333" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/activity_login.xml" value="0.28958333333333336" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/activity_outgoing_invitation.xml" value="0.184375" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/activity_profile.xml" value="0.3625" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/activity_register.xml" value="0.25885416666666666" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/activity_settings.xml" value="0.3625" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/all_single_profile_display.xml" value="0.27239583333333334" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/fragment_calls.xml" value="0.3328125" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/fragment_chats.xml" value="0.27239583333333334" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/fragment_requests.xml" value="0.25885416666666666" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/intro_activity.xml" value="0.28958333333333336" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/item_container_user.xml" value="0.25833333333333336" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/slide1.xml" value="0.28958333333333336" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/slide2.xml" value="0.28958333333333336" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/slide3.xml" value="0.25885416666666666" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/layout/slide4.xml" value="0.25885416666666666" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/menu/main_menu.xml" value="0.28958333333333336" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/menu/search_menu.xml" value="0.3625" />
+        <entry key="..\:/androidprojects/Androidprojects/fyp project/uMe/app/src/main/res/menu/update_status_done_menu.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MarkdownProjectSettings" wasCopied="true">
+    <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showGitHubPageIfSynced="false" allowBrowsingInPreview="false" synchronizePreviewPosition="true" highlightPreviewType="NONE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="false" showSelectionInPreview="true" openRemoteLinks="true" replaceUnicodeEmoji="false" lastLayoutSetsDefault="false">
+      <PanelProvider>
+        <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
+      </PanelProvider>
+    </PreviewSettings>
+    <ParserSettings gitHubSyntaxChange="false" emojiShortcuts="1" emojiImages="0">
+      <PegdownExtensions>
+        <option name="ABBREVIATIONS" value="false" />
+        <option name="ANCHORLINKS" value="true" />
+        <option name="ASIDE" value="false" />
+        <option name="ATXHEADERSPACE" value="true" />
+        <option name="AUTOLINKS" value="true" />
+        <option name="DEFINITIONS" value="false" />
+        <option name="DEFINITION_BREAK_DOUBLE_BLANK_LINE" value="false" />
+        <option name="FENCED_CODE_BLOCKS" value="true" />
+        <option name="FOOTNOTES" value="false" />
+        <option name="HARDWRAPS" value="false" />
+        <option name="HTML_DEEP_PARSER" value="false" />
+        <option name="INSERTED" value="false" />
+        <option name="QUOTES" value="false" />
+        <option name="RELAXEDHRULES" value="true" />
+        <option name="SMARTS" value="false" />
+        <option name="STRIKETHROUGH" value="true" />
+        <option name="SUBSCRIPT" value="false" />
+        <option name="SUPERSCRIPT" value="false" />
+        <option name="SUPPRESS_HTML_BLOCKS" value="false" />
+        <option name="SUPPRESS_INLINE_HTML" value="false" />
+        <option name="TABLES" value="true" />
+        <option name="TASKLISTITEMS" value="true" />
+        <option name="TOC" value="false" />
+        <option name="WIKILINKS" value="true" />
+      </PegdownExtensions>
+      <ParserOptions>
+        <option name="ADMONITION_EXT" value="false" />
+        <option name="ATTRIBUTES_EXT" value="false" />
+        <option name="COMMONMARK_LISTS" value="true" />
+        <option name="DUMMY" value="false" />
+        <option name="EMOJI_SHORTCUTS" value="true" />
+        <option name="ENUMERATED_REFERENCES_EXT" value="false" />
+        <option name="FLEXMARK_FRONT_MATTER" value="false" />
+        <option name="GFM_LOOSE_BLANK_LINE_AFTER_ITEM_PARA" value="false" />
+        <option name="GFM_TABLE_RENDERING" value="true" />
+        <option name="GITBOOK_URL_ENCODING" value="false" />
+        <option name="GITHUB_LISTS" value="false" />
+        <option name="GITHUB_WIKI_LINKS" value="true" />
+        <option name="GITLAB_EXT" value="false" />
+        <option name="GITLAB_MATH_EXT" value="false" />
+        <option name="GITLAB_MERMAID_EXT" value="false" />
+        <option name="HEADER_ID_NON_ASCII_TO_LOWERCASE" value="false" />
+        <option name="HEADER_ID_NO_DUPED_DASHES" value="false" />
+        <option name="JEKYLL_FRONT_MATTER" value="false" />
+        <option name="MACROS_EXT" value="false" />
+        <option name="NO_TEXT_ATTRIBUTES" value="false" />
+        <option name="PARSE_HTML_ANCHOR_ID" value="false" />
+        <option name="PLANTUML_FENCED_CODE" value="false" />
+        <option name="PUML_FENCED_CODE" value="false" />
+        <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
+      </ParserOptions>
+    </ParserSettings>
+    <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" embedUrlContent="false" addPageHeader="true" embedImages="false" embedHttpImages="false" imageUriSerials="false" addDocTypeHtml="true" noParaTags="false" plantUmlConversion="0" mathConversion="-1">
+      <GeneratorProvider>
+        <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
+      </GeneratorProvider>
+      <headerTop />
+      <headerBottom />
+      <bodyTop />
+      <bodyBottom />
+    </HtmlSettings>
+    <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssUriSerial="true" isCssTextEnabled="false" isDynamicPageWidth="true">
+      <StylesheetProvider>
+        <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
+      </StylesheetProvider>
+      <ScriptProviders />
+      <cssText />
+      <cssUriHistory />
+    </CssSettings>
+    <HtmlExportSettings updateOnSave="false" parentDir="" targetDir="" cssDir="" scriptDir="" plainHtml="false" imageDir="" copyLinkedImages="false" imageUniquifyType="0" targetPathType="2" targetExt="" useTargetExt="false" noCssNoScripts="false" useElementStyleAttribute="false" linkToExportedHtml="true" exportOnSettingsChange="true" regenerateOnProjectOpen="false" linkFormatType="HTTP_ABSOLUTE" />
+    <LinkMapSettings>
+      <textMaps />
+    </LinkMapSettings>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16_PREVIEW" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressKotlinCodeStyleNotification">
+    <option name="disableForAll" value="true" />
+  </component>
+</project>

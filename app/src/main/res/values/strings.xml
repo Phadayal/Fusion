@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Fusion</string>
+    <string name="app_name_slogan">urgent messages</string>
+
+    <string name="give_correct_information">Please your give correct information. Because, your email &amp; phone number needs to be verification.</string>
+
+    <!-- My Common Strings -->
+    <string name="student_name">Abdullah Al-Hasnat</string>
+    <string name="copyright">uMe © 2018</string>
+    <string name="profile_settings">My Profile</string>
+    <string name="thehasnatbd">TheHasnatBD</string>
+    <string name="log_in">Log In</string>
+    <string name="log_out">Log Out</string>
+    <string name="profile">Profile</string>
+    <string name="friends">Friends</string>
+    <string name="about_app">About App</string>
+    <string name="all_peoples">Peoples</string>
+    <string name="all_friends">Friends</string>
+
+
+    <!-- Slider Screen Strings -->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">START</string>
+    <string name="title_slide1">Friendship</string>
+    <string name="desc_slide1">you can find a large number of people to build up friendship</string>
+    <string name="title_slide2">No Cost</string>
+    <string name="desc_slide2">Fusion is completely FREE of cost, no subscription fees.</string>
+    <string name="title_slide3">Chatting</string>
+    <string name="desc_slide3">fully one to one personal chatting system</string>
+    <string name="title_slide4">Secure</string>
+    <string name="desc_slide4">Fusion keeps your messages secure</string>
+
+
+    <!-- About App Strings -->
+    <string name="varsity_name">BANGLADESH UNIVERSITY</string>
+    <string name="instructor1_name">Md. Sadiq Iqbal</string>
+    <string name="instructor_name">Omor Faruk</string>
+    <string name="about_text">This application is built for learning purpose.\nProject Source Code Link-</string>
+    <string name="project_git_link"><u>https://github.com/TheHasnatBD/uMe</u></string>
+    <string name="about_app_detail">x</string>
+    <string name="student_id_details">B.Sc in Computer Science &amp; Engineering\nID: 201521 042 019</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <string name="welcome_to">Welcome to</string>
+    <string name="video_meeting_conference_app">Video Meeting | Conference App</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="email">Email</string>
+    <string name="your_example_com">your@example.com</string>
+    <string name="password">Password</string>
+    <string name="password_hint">• • • • • • • • •</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="we_need_a_few_details_to_get_your_account_ready">We need a few details to get your account ready</string>
+    <string name="first_name">First Name</string>
+    <string name="first_name_hint">Jhon</string>
+    <string name="last_name">Last Name</string>
+    <string name="last_name_hint">Suradep</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="incoming_meeting_invitation">Incoming Meeting Invitation</string>
+    <string name="sending_meeting_invitation">Sending Meeting Invitation</string>
+
+    <!-- Remove or change this placeholder text -->
+    <string name="on_internet_msg">No internet connection! Please check internet.</string>
+    <string name="menu_search">Search</string>
+    <string name="register_success_popup">Registered successfully.\nVerification email has been sent.\nPlease verify email.</string>
+    <string name="recheck_gender">To save your changes, please check/recheck your GENDER.</string>
+
+    <string-array name="spinerViewPeople">
+        <item>Default</item>
+        <item>Name</item>
+        <item>Date</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
